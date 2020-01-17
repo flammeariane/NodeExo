@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/flammeariane/NodeExo/issues"
   },
-  "homepage": "https://github.com/flammeariane/NodeExo#readme"
+  "homepage": "https://github.com/flammeariane/NodeExo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
